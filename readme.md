@@ -1,4 +1,4 @@
-# Projto
+# Projeto
 
 Este é um projeto que desenvolvi na faculdade, onde aprendi fazer o desenvolvimento do flask.
 
